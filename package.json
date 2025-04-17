@@ -13,7 +13,7 @@
     "@types/node": "^22.13.11",
     "discord": "^0.8.2",
     "discord.js": "^14.18.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
     "cors": "^2.8.5"
   }
 }
